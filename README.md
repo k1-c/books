@@ -6,7 +6,7 @@
 - [Docker/Kubernetes 実践コンテナ開発入門](./002_docker_kubernetes/toc.md)
 - [Etheream + Solidity入門](./003_etheream_and_solidity/toc.md)
 - [はじめてのGTD ストレスフリーの仕事術](./004_gtd/toc.md)
-- [入門Python3](./005_intoroducing_python/toc.md)
+- [入門Python3](./005_introducing_python/toc.md)
 - [Vue.js入門 基礎から実践アプリケーション開発まで](./006_introducing_vue.js/toc.md)
 - [リーン・スタートアップ](./007_lean_startup/toc.md)
 - [Nuxt.jsビギナーズガイド](./008_nuxt.js_beginners_guide/toc.md)
